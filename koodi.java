@@ -9,7 +9,13 @@ Tekoälytoteutus valmis
 
 Käytetään toteutettua nettiyhteyttä.
 
+void TulostetaanHeiMaailma() {
+	System.out.printIn("Hei, Maailma!");
+}
+
+
   void TulostetaanHeiSuomi() {
 System.Out.printIn("Hei, Suomi!");
 }
+
 
