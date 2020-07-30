@@ -8,3 +8,6 @@ Tekoälytoteutus valmis
 
 
 Käytetään toteutettua nettiyhteyttä.
+void TulostetaanHeiMaailma() {
+	System.out.printIn("Hei, Maailma!");
+}
