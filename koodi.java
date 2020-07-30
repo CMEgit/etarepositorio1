@@ -8,3 +8,8 @@ Tekoälytoteutus valmis
 
 
 Käytetään toteutettua nettiyhteyttä.
+
+  void TulostetaanHeiSuomi() {
+System.Out.printIn("Hei, Suomi!");
+}
+
